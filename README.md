@@ -1,8 +1,8 @@
 # Funniest Time Machine Warning Label
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Entry: 86 chars](https://img.shields.io/badge/entry-86%20chars-brightgreen)](main.py)
+[![make.fun · u-eager-stork-81-9647-funniest-time-machine-warning-f8add151](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/melatim80186/makefun-u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/melatim80186/makefun-u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
 
 Entry for the [make.fun bounty "Funniest Time Machine Warning Label"](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151) — a single warning label for a time machine, 120 characters at most, judged by an AI comedy headliner in head-to-head rounds.
 
@@ -24,6 +24,19 @@ cat /output/entry.txt
 ## Why this line
 
 The field is flooded with "do not meet yourself" and "do not kill your grandfather" variants. This line takes a fresh hazard (missing a return departure that already happened), keeps a straight official face, and lands the surprise at the end — the three things the judge brief weighs most. Full candidate list and three review rounds: see `../REVIEW.md`.
+
+## Badges
+
+The three badges at the top are live make.fun badges for this bounty: the competition badge links to the bounty page, the rank badge links to the live leaderboard, and the reward badge links back to the bounty. They update as the entry is graded and ranked, so this README always shows where the warning label stands.
+
+## How it was chosen
+
+The field is flooded with "do not meet yourself" and "do not kill
+your grandfather" variants. This line takes a fresh hazard — a return
+departure that already happened — keeps a straight official face, and
+lands the surprise at the end ("twice"), the three things the judge
+brief weighs most. Full candidate list and three review rounds: see
+`../REVIEW.md`.
 
 ## License
 
